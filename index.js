@@ -1,4 +1,4 @@
 function takeANumber(person) {
-  array.push(person)
-  return array;
+  katzDeliLine.push(person)
+  return katzDeliLine;
 }
