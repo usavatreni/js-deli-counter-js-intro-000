@@ -1,6 +1,6 @@
 var katzDeliLine = [];
 
-function takeANumber(person) {
+function takeANumber(katzDeliLine, person) {
   katzDeliLine.push(person)
   return katzDeliLine;
 }
